@@ -1,0 +1,28 @@
+{
+  "seller": [
+    {
+      "id": "1",
+      "name": "Aniruddh Kenbjale",
+      "email": "AniGmail.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "9441",
+      "name": "Tony",
+      "password": "abc@123",
+      "email": "tony@test.com"
+    },
+    {
+      "id": "6bfa",
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@test.com"
+    },
+    {
+      "id": "c851",
+      "name": "Bruce",
+      "password": "abc@123",
+      "email": "bruce@test.com"
+    }
+  ]
+}
